@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  
+  .tabcontent {
+    float: right;
+    display: block;
+    width: 65%;
+    height: 25%;
+    border: black solid 1px;
+    margin: 5% 10% 0% 0%;
+    padding-right: 0px;
+  }
+  .contenido-form {
+    font-size: 35px;
+    padding: 15px;
+  }
+  select {
+    font-size: 35px;
+  }
+  
